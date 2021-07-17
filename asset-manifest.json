@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/frontend-react-code-editor/static/css/main.aeb3b7d6.chunk.css",
-    "main.js": "/frontend-react-code-editor/static/js/main.2580cd2a.chunk.js",
-    "main.js.map": "/frontend-react-code-editor/static/js/main.2580cd2a.chunk.js.map",
+    "main.js": "/frontend-react-code-editor/static/js/main.130800a9.chunk.js",
+    "main.js.map": "/frontend-react-code-editor/static/js/main.130800a9.chunk.js.map",
     "runtime-main.js": "/frontend-react-code-editor/static/js/runtime-main.81e52398.js",
     "runtime-main.js.map": "/frontend-react-code-editor/static/js/runtime-main.81e52398.js.map",
     "static/css/2.3f8e8378.chunk.css": "/frontend-react-code-editor/static/css/2.3f8e8378.chunk.css",
-    "static/js/2.95195b74.chunk.js": "/frontend-react-code-editor/static/js/2.95195b74.chunk.js",
-    "static/js/2.95195b74.chunk.js.map": "/frontend-react-code-editor/static/js/2.95195b74.chunk.js.map",
+    "static/js/2.215cfe35.chunk.js": "/frontend-react-code-editor/static/js/2.215cfe35.chunk.js",
+    "static/js/2.215cfe35.chunk.js.map": "/frontend-react-code-editor/static/js/2.215cfe35.chunk.js.map",
     "index.html": "/frontend-react-code-editor/index.html",
     "static/css/2.3f8e8378.chunk.css.map": "/frontend-react-code-editor/static/css/2.3f8e8378.chunk.css.map",
     "static/css/main.aeb3b7d6.chunk.css.map": "/frontend-react-code-editor/static/css/main.aeb3b7d6.chunk.css.map",
-    "static/js/2.95195b74.chunk.js.LICENSE.txt": "/frontend-react-code-editor/static/js/2.95195b74.chunk.js.LICENSE.txt"
+    "static/js/2.215cfe35.chunk.js.LICENSE.txt": "/frontend-react-code-editor/static/js/2.215cfe35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.81e52398.js",
     "static/css/2.3f8e8378.chunk.css",
-    "static/js/2.95195b74.chunk.js",
+    "static/js/2.215cfe35.chunk.js",
     "static/css/main.aeb3b7d6.chunk.css",
-    "static/js/main.2580cd2a.chunk.js"
+    "static/js/main.130800a9.chunk.js"
   ]
 }
