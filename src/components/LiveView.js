@@ -13,7 +13,7 @@ export default function LiveView({ srcDoc }) {
         className={classes.frame}
         srcDoc={srcDoc}
         width="100%"
-        height="330"
+        height="340"
         title="Live-view"
         frameBorder="0"
       />

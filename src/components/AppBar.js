@@ -5,7 +5,7 @@ import FlareIcon from "@material-ui/icons/Flare";
 import useStyles from "../styles";
 export default function Appbar({ isDark, setIsDark }) {
   const classes = useStyles();
-  const icon = isDark ? <Brightness3Icon /> : <FlareIcon />;
+  const icon = isDark ? <FlareIcon />: <Brightness3Icon />;
   function handleChange() {
     setIsDark(!isDark);
   }

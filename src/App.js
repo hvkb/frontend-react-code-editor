@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Appbar from "./components/Appbar";
+import Appbar from "./components/AppBar";
 import { ThemeProvider, createTheme } from "@material-ui/core";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Layout from "./components/Layout";
